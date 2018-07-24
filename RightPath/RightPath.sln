@@ -5,7 +5,7 @@ VisualStudioVersion = 15.0.26403.3
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RightPath", "RightPath\RightPath\RightPath.csproj", "{790AA6D1-65C6-411A-92F6-B397322EE1FB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TurnkeyEstimates.iOS", "RightPath\RightPath.iOS\TurnkeyEstimates.iOS.csproj", "{8380B338-9A6B-4089-89A0-7C958AF9E198}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RightPath.iOS", "RightPath\RightPath.iOS\RightPath.iOS.csproj", "{8380B338-9A6B-4089-89A0-7C958AF9E198}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RightPath.Droid", "RightPath\RightPath.Droid\RightPath.Droid.csproj", "{63E2A17D-3164-4823-9CA3-064CD05AA665}"
 EndProject
